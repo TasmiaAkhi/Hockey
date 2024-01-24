@@ -23,7 +23,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'Grid-1': "url('images2.png')",
+        'Grid-1': "url('images/2.png')",
         'footer-texture': "url('/img/footer-texture.png')",
       }
     }
